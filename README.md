@@ -18,18 +18,18 @@ General
  - 1 narrow ToF sensor facing forward
  - 6 axis IMU
 
-<br/><br/>
+
 ## Required knowledge to do the assembly
 - 3D printing 
 - Arduino/MCU programming
 - Electronics - soldering, dupont connectors, etc
 
-<br/><br/>
+
 ## Links
 - [Assembly guide](ASSEMBLY.md)
 - HiFly repo
 
-<br/><br/>
+
 
 # Parts list
 
