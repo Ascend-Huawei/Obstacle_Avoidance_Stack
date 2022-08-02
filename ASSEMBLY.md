@@ -69,4 +69,4 @@ The OPT3101 sensors share a hardcoded I2C address, which is an issue when we wan
 
 
 - Finally, the whole system can be tested with the battery plugged in. If everyhting is working, the battery plug can be superglued to its mounting spot and the back cover part can be snapped onto the back of the frame. The assembly is done!
-<img src="Assets/hatch_crop.jpg" alt="drawing" width="500"/>
+-- <img src="Assets/hatch_crop.jpg" alt="drawing" width="500"/>
